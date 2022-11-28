@@ -2,3 +2,21 @@ html, body {
   margin: 0;
   padding: 0;
 }
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-logo {
+  width: 60px;
+}
+
+.nav-items {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 16px
+}
