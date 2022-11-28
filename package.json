@@ -1,0 +1,20 @@
+{
+  "name": "react-exercises",
+  "version": "1.0.0",
+  "description": "react exerciese from scrimba react course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thural/React-Exercises.git"
+  },
+  "author": "thural",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thural/React-Exercises/issues"
+  },
+  "homepage": "https://github.com/thural/React-Exercises#readme"
+}
